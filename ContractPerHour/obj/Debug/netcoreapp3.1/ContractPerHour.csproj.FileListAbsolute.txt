@@ -1,0 +1,13 @@
+C:\Users\klebe\source\repos\ContractPerHour\ContractPerHour\bin\Debug\netcoreapp3.1\ContractPerHour.exe
+C:\Users\klebe\source\repos\ContractPerHour\ContractPerHour\bin\Debug\netcoreapp3.1\ContractPerHour.deps.json
+C:\Users\klebe\source\repos\ContractPerHour\ContractPerHour\bin\Debug\netcoreapp3.1\ContractPerHour.runtimeconfig.json
+C:\Users\klebe\source\repos\ContractPerHour\ContractPerHour\bin\Debug\netcoreapp3.1\ContractPerHour.runtimeconfig.dev.json
+C:\Users\klebe\source\repos\ContractPerHour\ContractPerHour\bin\Debug\netcoreapp3.1\ContractPerHour.dll
+C:\Users\klebe\source\repos\ContractPerHour\ContractPerHour\bin\Debug\netcoreapp3.1\ContractPerHour.pdb
+C:\Users\klebe\source\repos\ContractPerHour\ContractPerHour\obj\Debug\netcoreapp3.1\ContractPerHour.csprojAssemblyReference.cache
+C:\Users\klebe\source\repos\ContractPerHour\ContractPerHour\obj\Debug\netcoreapp3.1\ContractPerHour.AssemblyInfoInputs.cache
+C:\Users\klebe\source\repos\ContractPerHour\ContractPerHour\obj\Debug\netcoreapp3.1\ContractPerHour.AssemblyInfo.cs
+C:\Users\klebe\source\repos\ContractPerHour\ContractPerHour\obj\Debug\netcoreapp3.1\ContractPerHour.csproj.CoreCompileInputs.cache
+C:\Users\klebe\source\repos\ContractPerHour\ContractPerHour\obj\Debug\netcoreapp3.1\ContractPerHour.dll
+C:\Users\klebe\source\repos\ContractPerHour\ContractPerHour\obj\Debug\netcoreapp3.1\ContractPerHour.pdb
+C:\Users\klebe\source\repos\ContractPerHour\ContractPerHour\obj\Debug\netcoreapp3.1\ContractPerHour.genruntimeconfig.cache
